@@ -115,4 +115,4 @@ return 0;
 <img width="1241" height="749" alt="image" src="https://github.com/user-attachments/assets/ff255995-4151-49d1-b31d-3c0f4439ed51" />
 
 ## Result:
- The program is executed successfully.
+ The RSA-Algorithm is executed successfully.
